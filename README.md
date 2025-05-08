@@ -17,3 +17,14 @@ Vous pouvez consulter la version déployée du projet à l'adresse suivante :
 https://luxury-strudel-c81e67.netlify.app/
 
 ## Structure du projet
+
+index.html # Page d'accueil du site web
+Version1.html # Première version de la page web
+Version2.html # Seconde version de la page web
+Version3.html # Troisième version de la page web
+VersionFinale.html # Quatrième version et version finale de la page web
+style.css # Fichier de style CSS pour la mise en page
+form.php # Page traitant le formulaire et enregistrant les données dans la base de données
+script.js # Script JavaScript pour les interactions
+database.sql # Script SQL pour la création de la base de données
+images/ # Dossier contenant les images utilisées sur le site
