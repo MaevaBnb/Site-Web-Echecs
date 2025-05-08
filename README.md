@@ -1,4 +1,4 @@
-# Page Web sur les Echecs
+# Projet de Page Web Personnelle sur les Echecs
 
 ## Description
 
