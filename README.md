@@ -38,4 +38,14 @@ database.sql # Script SQL pour la création de la base de données
 
 images/ # Dossier contenant les images utilisées sur le site
 
+## Fonctionnalités
+
+Page d'accueil : Affiche un une page web avec des images, des liens, et un texte structuré.
+
+CSS : Application de styles CSS3 avec des éléments diversifiés pour une mise en page soignée.
+
+Formulaire avec PHP : Un formulaire permettant à l'utilisateur de soumettre des informations, qui sont ensuite stockées et affichées depuis une base de données MySQL.
+
+Interactivité avec JavaScript : La page réagit aux actions de l'utilisateur.
+
 
