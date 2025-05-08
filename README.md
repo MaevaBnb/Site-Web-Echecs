@@ -36,8 +36,6 @@ script.js # Script JavaScript pour les interactions
 
 database.sql # Script SQL pour la création de la base de données
 
-images/ # Dossier contenant les images utilisées sur le site
-
 ## Fonctionnalités
 
 Page d'accueil : Affiche un une page web avec des images, des liens, et un texte structuré.
