@@ -1,0 +1,157 @@
+body
+{
+	color:white;
+	background-color:black;
+}
+
+h1
+{
+	margin:25px;
+	font-size:350%;
+}
+
+h2
+{
+	font-size:180%;
+}
+
+h3
+{
+	font-size:150%;
+}
+
+p
+{
+	font: normal normal medium fantasy;
+	font-size:110%;
+}
+
+ul, ol
+{
+	margin:20px;
+}
+
+figure 
+{
+    display:inline-block;
+    margin:20px;
+}
+
+figcaption 
+{
+    margin-top: 10px;
+	text-align:center;
+}
+
+tr
+{
+	onmouseover:"highlightRow(event)" onmouseout:"unhighlightRow(event)"
+}
+
+.formulaire
+{
+	background-color:#a1ada2;
+	color:black;
+}
+
+.centre
+{
+	display:block;
+	text-align:center;
+}
+
+.margin_bottom
+{
+	margin-bottom:10px;
+}
+
+.conteneur
+{
+	display:flex;
+	justify-content:center;
+}
+
+.conteneur img
+{
+	margin: 0 20px;
+}
+
+
+#margin_moy, h2, h3, p, form
+{
+	margin:50px;
+}
+
+#flottant
+{
+	float:left;
+	margin:-2em 0px -2em 0px;
+}
+
+#clear
+{
+	clear:both;
+}
+
+#bordure
+{
+	border:dotted;
+	border-width:3px;
+	border-color:beige;
+	width:100%;
+	margin:2em 0px 2em 0px;
+}
+
+#alignement
+{
+display:flex;
+align-items:center;
+justify-content:center;
+gap:15px;
+}
+
+#width_texte
+{
+	width:60%;
+}
+
+#lettrine
+{
+	font-size:300%;
+	float:left;
+	margin:-0.20em 2px -0.20em 0px;
+	font-family:serif;
+}
+
+a:hover
+{
+	color:white;
+	background-color:purple;
+}
+
+#nav {
+    background-color: #f4f4f4;
+    padding: 10px;
+}
+
+#nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+#nav li {
+    margin: 0 15px;
+}
+
+#nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+#nav a:hover {
+    color:white;
+}
