@@ -1,4 +1,4 @@
-# Site Web sur les Echecs
+# Page Web sur les Echecs
 
 ## Description
 
